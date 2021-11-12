@@ -11,4 +11,5 @@ type User struct {
 	UserPhotos    []Photo
 	UserDocuments []Document
 	UserMoments   []Moment
+	UserFriends   []Friend
 }
